@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Responsive Onepage HTML Template | Multi</title>
+    <title>BrightStudio | Photography</title>
 	<!-- core CSS -->
     <link href="<?php echo base_url("assets/css/bootstrap.min.css");?>" rel="stylesheet">
     <link href="<?php echo base_url("assets/css/font-awesome.min.css");?>" rel="stylesheet">
@@ -66,9 +66,9 @@
                         <div class="row">
                             <div class="col-sm-6">
                                 <div class="carousel-content">
-                                    <h2><span>Multi</span> is the best Onepage html template</h2>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et  dolore magna incididunt ut labore aliqua. </p>
-                                    <a class="btn btn-primary btn-lg" href="#">Read More</a>
+                                    <h2><span></span>  </h2>
+                                    <p></p>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -81,8 +81,8 @@
                         <div class="row">
                             <div class="col-sm-6">
                                 <div class="carousel-content">
-                                    <h2>Beautifully designed <span>free</span> one page template</h2>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et  dolore magna incididunt ut labore aliqua. </p>
+                                    <h2>Beautifully designed <span>We</span> Provide Quality Photography</h2>
+                                    <p>Take care of all your memories. For you cannot relive them. </p>
                                     <a class="btn btn-primary btn-lg" href="#">Read More</a>
                                 </div>
                             </div>
@@ -97,8 +97,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-9">
-                    <h2>Premium quality free onepage template</h2>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+                    <h2>Premium HD Quality Photography</h2>
+                    <p>We believe wedding photography should be fun, timeless and inspirational. While styles and approaches evolve over the years, raw storytelling always remains the same. This is a handpicked curation from the many weddings we have had a privilege to document over the years. These stories were made with love, and happened all over India and the world. We look forward to being a part of your story!
                     </p>
                 </div>
                 <div class="col-sm-3 text-right">
@@ -111,8 +111,8 @@
     <section id="features">
         <div class="container">
             <div class="section-header">
-                <h2 class="section-title text-center wow fadeInDown">Awesome Features</h2>
-                <p class="text-center wow fadeInDown">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
+                <h2 class="section-title text-center wow fadeInDown">Awesome  Products</h2>
+                <p class="text-center wow fadeInDown">A great photograph is a full expression of what one feels about what is being photographed in the deepest sense and is, thereby, a true expression of what one feels about life in its entirety.</p>
             </div>
             <div class="row">
                 <div class="col-sm-6 wow fadeInLeft">
@@ -124,8 +124,8 @@
                             <i class="fa fa-line-chart"></i>
                         </div>
                         <div class="media-body">
-                            <h4 class="media-heading">UX design</h4>
-                            <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
+                            <h4 class="media-heading">Still Photography</h4>
+                            <p>You don't take a photograph, you make it.</p>
                         </div>
                     </div>
 
@@ -134,8 +134,8 @@
                             <i class="fa fa-cubes"></i>
                         </div>
                         <div class="media-body">
-                            <h4 class="media-heading">UI design</h4>
-                            <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
+                            <h4 class="media-heading">Karizma & Canvara Album Designing</h4>
+                            <p>The goal of a designer is to listen, observe, understand, sympathize, empathize, synthesize, and glean insights that enable him or her to ‘make the invisible visible.</p>
                         </div>
                     </div>
 
@@ -144,8 +144,8 @@
                             <i class="fa fa-pie-chart"></i>
                         </div>
                         <div class="media-body">
-                            <h4 class="media-heading">SEO Services</h4>
-                            <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
+                            <h4 class="media-heading">HD Videography</h4>
+                            <p>We don’t make movies to make money, we make money to make more movies.</p>
                         </div>
                     </div>
 
@@ -154,8 +154,8 @@
                             <i class="fa fa-pie-chart"></i>
                         </div>
                         <div class="media-body">
-                            <h4 class="media-heading">SEO Services</h4>
-                            <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
+                            <h4 class="media-heading">Sublimation Printing</h4>
+                            <p>We Provide Printing on Various Products i.e Mug,Cushion,TShirt etc</p>
                         </div>
                     </div>
                 </div>
@@ -166,104 +166,17 @@
     <section id="cta2">
         <div class="container">
             <div class="text-center">
-                <h2 class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms"><span>MULTI</span> IS A CREATIVE HTML TEMPLATE</h2>
-                <p class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="100ms">Mauris pretium auctor quam. Vestibulum et nunc id nisi fringilla <br />iaculis. Mauris pretium auctor quam.</p>
-                <p class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="200ms"><a class="btn btn-primary btn-lg" href="#">Free Download</a></p>
+                <h2 class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms"><span>We</span> Also Provide Sublimation Products</h2>
+                <p class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="100ms">Mug Printing,T-Shirt Printing,Cushon Printing <br />We Create this Because Memories Never Dies</p>
+                <p class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="200ms"><a class="btn btn-primary btn-lg" href="#">Know More</a></p>
                 <img class="img-responsive wow fadeIn" src="<?php echo base_url("assets/images/cta2/cta2-img.png");?>" alt="" data-wow-duration="300ms" data-wow-delay="300ms">
             </div>
         </div>
     </section>
-
-    <section id="services" >
-        <div class="container">
-
-            <div class="section-header">
-                <h2 class="section-title text-center wow fadeInDown">Our Services</h2>
-                <p class="text-center wow fadeInDown">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
-            </div>
-
-            <div class="row">
-                <div class="features">
-                    <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms">
-                        <div class="media service-box">
-                            <div class="pull-left">
-                                <i class="fa fa-line-chart"></i>
-                            </div>
-                            <div class="media-body">
-                                <h4 class="media-heading">UX design</h4>
-                                <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
-                            </div>
-                        </div>
-                    </div><!--/.col-md-4-->
-
-                    <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="100ms">
-                        <div class="media service-box">
-                            <div class="pull-left">
-                                <i class="fa fa-cubes"></i>
-                            </div>
-                            <div class="media-body">
-                                <h4 class="media-heading">UI design</h4>
-                                <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
-                            </div>
-                        </div>
-                    </div><!--/.col-md-4-->
-
-                    <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="200ms">
-                        <div class="media service-box">
-                            <div class="pull-left">
-                                <i class="fa fa-pie-chart"></i>
-                            </div>
-                            <div class="media-body">
-                                <h4 class="media-heading">SEO Services</h4>
-                                <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
-                            </div>
-                        </div>
-                    </div><!--/.col-md-4-->
-                
-                    <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="300ms">
-                        <div class="media service-box">
-                            <div class="pull-left">
-                                <i class="fa fa-bar-chart"></i>
-                            </div>
-                            <div class="media-body">
-                                <h4 class="media-heading">iOS App</h4>
-                                <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
-                            </div>
-                        </div>
-                    </div><!--/.col-md-4-->
-
-                    <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="400ms">
-                        <div class="media service-box">
-                            <div class="pull-left">
-                                <i class="fa fa-language"></i>
-                            </div>
-                            <div class="media-body">
-                                <h4 class="media-heading">Android App</h4>
-                                <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
-                            </div>
-                        </div>
-                    </div><!--/.col-md-4-->
-
-                    <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="500ms">
-                        <div class="media service-box">
-                            <div class="pull-left">
-                                <i class="fa fa-bullseye"></i>
-                            </div>
-                            <div class="media-body">
-                                <h4 class="media-heading">Win App</h4>
-                                <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
-                            </div>
-                        </div>
-                    </div><!--/.col-md-4-->
-                </div>
-            </div><!--/.row-->    
-        </div><!--/.container-->
-    </section><!--/#services-->
-
-    <section id="portfolio">
+ <section id="portfolio">
         <div class="container">
             <div class="section-header">
-                <h2 class="section-title text-center wow fadeInDown">Our Works</h2>
+                <h2 class="section-title text-center wow fadeInDown">Show Case</h2>
                 <p class="text-center wow fadeInDown">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
             </div>
 
@@ -494,7 +407,7 @@
                             <img class="img-responsive" src="<?php echo base_url("assets/images/team/01.jpg");?>" alt="">
                         </div>
                         <div class="team-info">
-                            <h3>Bin Burhan</h3>
+                            <h3>Faizy Naseem</h3>
                             <span>Co-Founder</span>
                         </div>
                         <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
@@ -512,8 +425,8 @@
                             <img class="img-responsive" src="<?php echo base_url("assets/images/team/02.jpg");?>" alt="">
                         </div>
                         <div class="team-info">
-                            <h3>Jane Man</h3>
-                            <span>Project Manager</span>
+                            <h3>Aqif Ahmed</h3>
+                            <span>Photgrapher</span>
                         </div>
                         <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
                         <ul class="social-icons">
@@ -530,7 +443,7 @@
                             <img class="img-responsive" src="<?php echo base_url("assets/images/team/03.jpg");?>" alt="">
                         </div>
                         <div class="team-info">
-                            <h3>Pahlwan</h3>
+                            <h3>Bilal Naseem</h3>
                             <span>Designer</span>
                         </div>
                         <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
@@ -548,7 +461,7 @@
                             <img class="img-responsive" src="<?php echo base_url("assets/images/team/04.jpg");?>" alt="">
                         </div>
                         <div class="team-info">
-                            <h3>Nasir uddin</h3>
+                            <h3>Barkat Fatima</h3>
                             <span>UI/UX</span>
                         </div>
                         <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
