@@ -183,9 +183,9 @@
             <div class="text-center">
                 <ul class="portfolio-filter">
                     <li><a class="active" href="#" data-filter="*">All Works</a></li>
-                    <li><a href="#" data-filter=".creative">Creative</a></li>
-                    <li><a href="#" data-filter=".corporate">Corporate</a></li>
-                    <li><a href="#" data-filter=".portfolio">Portfolio</a></li>
+                    <li><a href="#" data-filter=".creative">Portrait</a></li>
+                    <li><a href="#" data-filter=".corporate">Creative</a></li>
+                    <li><a href="#" data-filter=".portfolio">Awesome</a></li>
                 </ul><!--/#portfolio-filter-->
             </div>
 
@@ -207,7 +207,7 @@
                         <div class="portfolio-info">
                             <h3>Portfolio Item 2</h3>
                             Lorem Ipsum Dolor Sit
-                            <a class="preview" href="<?php echo base_url("assets/images/portfolio/full.jpg");?>" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
+                            <a class="preview" href="<?php echo base_url("assets/images/portfolio/full2.jpg");?>" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
                         </div>
                     </div>
                 </div><!--/.portfolio-item-->
@@ -218,7 +218,7 @@
                         <div class="portfolio-info">
                             <h3>Portfolio Item 3</h3>
                             Lorem Ipsum Dolor Sit
-                            <a class="preview" href="<?php echo base_url("assets/images/portfolio/full.jpg");?>" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
+                            <a class="preview" href="<?php echo base_url("assets/images/portfolio/full1.jpg");?>" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
                         </div>
                     </div>
                 </div><!--/.portfolio-item-->
@@ -229,7 +229,7 @@
                         <div class="portfolio-info">
                             <h3>Portfolio Item 4</h3>
                             Lorem Ipsum Dolor Sit
-                            <a class="preview" href="<?php echo base_url("assets/images/portfolio/full.jpg");?>" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
+                            <a class="preview" href="<?php echo base_url("assets/images/portfolio/full3.jpg");?>" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
                         </div>
                     </div>
                 </div><!--/.portfolio-item-->
@@ -240,7 +240,7 @@
                         <div class="portfolio-info">
                             <h3>Portfolio Item 5</h3>
                             Lorem Ipsum Dolor Sit
-                            <a class="preview" href="<?php echo base_url("assets/images/portfolio/full.jpg");?>" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
+                            <a class="preview" href="<?php echo base_url("assets/images/portfolio/full4.jpg");?>" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
                         </div>
                     </div>
                 </div><!--/.portfolio-item-->
@@ -251,7 +251,7 @@
                         <div class="portfolio-info">
                             <h3>Portfolio Item 5</h3>
                             Lorem Ipsum Dolor Sit
-                            <a class="preview" href="<?php echo base_url("assets/images/portfolio/full.jpg");?>" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
+                            <a class="preview" href="<?php echo base_url("assets/images/portfolio/full5.jpg");?>" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
                         </div>
                     </div>
                 </div><!--/.portfolio-item-->
@@ -262,7 +262,7 @@
                         <div class="portfolio-info">
                             <h3>Portfolio Item 7</h3>
                             Lorem Ipsum Dolor Sit
-                            <a class="preview" href="<?php echo base_url("assets/images/portfolio/full.jpg");?>" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
+                            <a class="preview" href="<?php echo base_url("assets/images/portfolio/full6.jpg");?>" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
                         </div>
                     </div>
                 </div><!--/.portfolio-item-->
@@ -273,7 +273,7 @@
                         <div class="portfolio-info">
                             <h3>Portfolio Item 8</h3>
                             Lorem Ipsum Dolor Sit
-                            <a class="preview" href="<?php echo base_url("assets/images/portfolio/full.jpg");?>" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
+                            <a class="preview" href="<?php echo base_url("assets/images/portfolio/full7.jpg");?>" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
                         </div>
                     </div>
                 </div><!--/.portfolio-item-->
